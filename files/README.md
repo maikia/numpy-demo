@@ -12,6 +12,17 @@ It can be either:
 
 ##
 
+<table>
+<tr><td><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png" alt="Pyladies Paris" height="128" width="128" /></td><td>
+<tr><td><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png" alt="Pyladies Paris" height="128" width="128" /></td><td>
+<tr><td><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png" alt="Pyladies Paris" height="128" width="128" /></td><td>
+<tr><td><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_White.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_Black.png">
+</picture>
+</td><td>
+</table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_White.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_Black.png">
