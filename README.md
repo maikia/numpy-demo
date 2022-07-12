@@ -12,10 +12,10 @@ It can be either:
 
 ##
 
-<table>
-<tr><td><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png" alt="Pyladies Paris" height="128" /></td>
-<td><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-euroscipy.png" alt="Euroscipy" height="128" /></td>
-<td><picture>
+<table width="100%">
+<tr><td width="30%"><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png" alt="Pyladies Paris" /></td>
+<td width="30%><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-euroscipy.png" alt="Euroscipy" /></td>
+<td width="30%><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_White.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_Black.png">
   <img alt="Owkin" src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_Black.png">
