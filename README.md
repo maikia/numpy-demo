@@ -10,21 +10,17 @@ It can be either:
   [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://maikia.github.io/numpy-demo/lab/index.html).
   (JupyterLite has been tested on Firefox 90+, Chromium 89+)
 
-::if ctx.theme == “dark”
-![Logo](https:// example .com/logo-dark.png)
-::else
-![Logo](https:// example .com/logo-light.png)
+##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_White.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_Black.png">
 </picture>
 
-##
-![Pyladies Paris](http://url/to/img.png)
-![Owkin](http://url/to/img.png)
-![EuroScipy](http://url/to/img.png)
+![Pyladies Paris]<img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png" width="400" height="790">
+
+![Pyladies Paris](https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png)
+![EuroScipy](https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-euroscipy.png)
 
 ## License
 
