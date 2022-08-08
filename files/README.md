@@ -10,11 +10,36 @@ It can be either:
   [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://maikia.github.io/numpy-demo/lab/index.html).
   (JupyterLite has been tested on Firefox 90+, Chromium 89+)
 
+## Requirements
+
+## Requirements:
+
+    Python 3.x
+    Jupyter Notebook
+    NumPy >= 1.10
+    matplotlib
+
+## Quick introduction to Jupyter notebook
+
+to run Jupyter notebook in your terminal type: <br>
+    `jupyter notebook`
+
+**Esc** : takes you into command mode, there you can use:
+
+ -  __a__ : insert a new cell above <br>
+ -  __b__ : insert a new cell below <br>
+ -  **m** : change the current cell to Markdown <br>
+ -  **y** : change the current cell to code
+
+**Enter** : go back to edit mode
+
+**Shift + Enter** : execute the cell, move to the cell below
+
 ##
 
 <table width="100%">
-<tr><td><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png" alt="Pyladies Paris"  height="70" /></td>
-<td><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-euroscipy.png" alt="Euroscipy" height="100" /></td>
+<tr><td width="20%"><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-meetup3.png" alt="Pyladies Paris"  height="90" /></td>
+<td><img src="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/logo-euroscipy.png" alt="Euroscipy" height="80" /></td>
 <td width="30%"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_White.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/maikia/numpy-demo/blob/caa745a67d1f24d1b70278b022a8e95ac6dbc514/images/Owkin_Logo_Black.png">
