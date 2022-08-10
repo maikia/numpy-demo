@@ -5,12 +5,13 @@
 This Numpy tutorial has been created for [Euroscipy 2022](https://www.euroscipy.org/2022/).
 It can be either:
 
-- downloaded locally
+- downloaded locally (see the instructions below)
 - run on a web browser using jupyter lite:
   [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://maikia.github.io/numpy-demo/lab/index.html).
   (JupyterLite has been tested on Firefox 90+, Chromium 89+)
 
-## Requirements
+# Download locally
+
 
 ## Requirements:
 
