@@ -5,22 +5,31 @@
 This Numpy tutorial has been created for [Euroscipy 2022](https://www.euroscipy.org/2022/).
 It can be either:
 
-- downloaded locally (see the instructions below)
+- downloaded to work locally (see the instructions below)
 - run on a web browser using jupyter lite:
   [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://maikia.github.io/numpy-demo/lab/index.html).
   (JupyterLite has been tested on Firefox 90+, Chromium 89+)
 
-# Download locally
+# Work locally
 
+The course uses Python 3 and some data analysis packages such as Numpy and matplotlib. To install the required
+libraries, we highly recommend Anaconda (https://www.anaconda.com/download/) or miniconda ( miniconda: https://docs.conda.io/en/latest/miniconda.html ) or another Python
+distribution that includes the scientific libraries (this recommendation applies to all platforms, so for Window, Linux
+and Mac).
+when you install conda Python will be installed along with it. Type `conda info` in your terminal to make sure conda
+installed correctly.
 
 ## Requirements:
 
     Python 3.x
+    Scipy
     Jupyter Notebook
     NumPy >= 1.10
     matplotlib
 
-## Quick introduction to Jupyter notebook
+make sure that you have installed everything correctly and test jupyter notebook by typing `jupyter-notebook`.
+
+# Quick introduction to Jupyter notebook
 
 to run Jupyter notebook in your terminal type: <br>
     `jupyter notebook`
