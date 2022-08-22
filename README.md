@@ -8,12 +8,12 @@ It can be either:
 - downloaded to work locally (see the instructions below)
 - run on a web browser using jupyter lite:
   [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://maikia.github.io/numpy-demo/lab/index.html).
-  (JupyterLite has been tested on Firefox 90+, Chromium 89+)
+  JupyterLite has been tested on Firefox 90+, Chromium 89+
 
 # Work locally
 
 The course uses Python 3 and some data analysis packages such as Numpy and matplotlib. To install the required
-libraries, we highly recommend Anaconda (https://www.anaconda.com/download/) or miniconda ( miniconda: https://docs.conda.io/en/latest/miniconda.html ) or another Python
+libraries, we highly recommend [Anaconda](https://www.anaconda.com/download/) or [miniconda]( miniconda: https://docs.conda.io/en/latest/miniconda.html ) or another Python
 distribution that includes the scientific libraries (this recommendation applies to all platforms, so for Window, Linux
 and Mac).
 when you install conda Python will be installed along with it. Type `conda info` in your terminal to make sure conda
