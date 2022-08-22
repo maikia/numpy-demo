@@ -13,7 +13,7 @@ It can be either:
 # Work locally
 
 The course uses Python 3 and some data analysis packages such as Numpy and matplotlib. To install the required
-libraries, we highly recommend [Anaconda](https://www.anaconda.com/download/) or [miniconda]( miniconda: https://docs.conda.io/en/latest/miniconda.html ) or another Python
+libraries, we highly recommend [Anaconda](https://www.anaconda.com/download/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) or another Python
 distribution that includes the scientific libraries (this recommendation applies to all platforms, so for Window, Linux
 and Mac).
 when you install conda Python will be installed along with it. Type `conda info` in your terminal to make sure conda
