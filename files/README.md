@@ -8,7 +8,7 @@ It can be either:
 - downloaded to work locally (see the instructions below)
 - run on a web browser using jupyter lite:
   [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://maikia.github.io/numpy-demo/lab/index.html).
-  JupyterLite has been tested on Firefox 90+, Chromium 89+
+  JupyterLite has been tested on Firefox 90+, Chromium 89+ . You do not need to install anything locally.
 
 # Work locally
 
