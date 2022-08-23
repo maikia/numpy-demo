@@ -69,7 +69,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.af71ba374fc8128e6506.js",
+        "load": "static/remoteEntry.40d7ace9569529c50584.js",
         "name": "bqplot"
       },
       {
@@ -87,7 +87,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.87c5f425be4cc49a1717.js",
+        "load": "static/remoteEntry.826666d2e0fe36d6609e.js",
         "name": "jupyter-leaflet"
       },
       {
